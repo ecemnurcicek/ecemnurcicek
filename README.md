@@ -40,14 +40,6 @@ ASP.NET Core • Entity Framework • Katmanlı mimari
 
 ---
 
-### 📊 İstatistikler
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecemnurcicek&theme=dark&hide_border=true&rank_icon=github" />
-</div>
-
----
-
 **İletişim:**  [LinkedIn](https://www.linkedin.com/in/ecemnurcicek)  •  `ecemnurcicek481@gmail.com`
 
 ---
@@ -91,14 +83,6 @@ ASP.NET Core • Entity Framework • Layered architecture
 ### 📚 Education & Certifications
 
 - 250-hour Software Expert Program (MCSD) – completed February 2026 with a 100 average
-
----
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecemnurcicek&theme=dark&hide_border=true&rank_icon=github" />
-</div>
 
 ---
 
