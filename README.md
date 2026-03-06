@@ -43,7 +43,7 @@ ASP.NET Core • Entity Framework • Katmanlı mimari
 ### 📊 İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirbuckun&theme=dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecemnurcicek&theme=dark&hide_border=true&rank_icon=github" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ ASP.NET Core • Entity Framework • Layered architecture
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirbuckun&theme=dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecemnurcicek&theme=dark&hide_border=true&rank_icon=github" />
 </div>
 
 ---
