@@ -7,7 +7,7 @@
 ASP.NET Core • Entity Framework • Katmanlı mimari
 </p>
 
-- 🖥️ **Junior Software Developer** / Yazılım Mühendisi
+- 🖥️ **Yazılım Geliştirme Uzman Yardımcısı**
 - 📚 **Bilgisayar Programcılığı Mezunu**
 - 📎 [LinkedIn](https://www.linkedin.com/in/ecemnurcicek)  • [E-posta](mailto:ecemnurcicek481@gmail.com)
 
@@ -61,7 +61,7 @@ ASP.NET Core • Entity Framework • Katmanlı mimari
 ASP.NET Core • Entity Framework • Layered architecture
 </p>
 
-- 🖥️ **Junior Software Developer** / Software Engineer
+- 🖥️ **Junior Software Developer**
 - 📚 **Computer Programming Graduate**
 - 📎 [LinkedIn](https://www.linkedin.com/in/ecemnurcicek)  • [Email](mailto:ecemnurcicek481@gmail.com)
 
